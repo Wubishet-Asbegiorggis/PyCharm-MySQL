@@ -70,4 +70,4 @@ for data3 in ConnectionCursor.fetchall():
     print("\n\t Department : ", data3[4])
     print("\n\t Salry : ", data3[5])
     print("\n\t Address : ", data3[6])
-print("\n\t Operation successfully accomplished with Visual Studio Code terminal !")
+print("\n\t Operation successfully accomplished with Visual Studio Code terminal.")
